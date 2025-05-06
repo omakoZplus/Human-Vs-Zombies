@@ -7,3 +7,5 @@ survive the longest and will you get the score to 100000 to win the game, let se
 
 
 AVAILABLE USING PROCCESING IDE, make sure to use it to play test the game, it is source code after all, so you can change the game the way you want or make it better version of it. That is a project myself did in University in my first semester in my first year. SO ENJOY AND HAPPY CODING AND PLAYING! 
+
+ALSO ONE IMPORTANT THING MAKE SURE TO change Data to data if you want images to LOAD!
